@@ -1,0 +1,5 @@
+<soundbank>
+  <sound category="sfx" name="blob" volume="0.7" is3d="false" looping="false">
+    <source res="actors/pets/blob.wav" />
+  </sound>
+</soundbank>
